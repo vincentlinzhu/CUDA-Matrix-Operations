@@ -1,0 +1,54 @@
+Matrix Size: 128 x 128
+Operation: Matrix Multiplication
+CPU Time (seconds): 0.00723933
+GPU Time (seconds): 0.0578276
+Speedup (CPU/GPU): 0.125188
+------------------------
+Matrix Size: 128 x 128
+Operation: Matrix Addition
+CPU Time (seconds): 8.9011e-05
+GPU Time (seconds): 0.00839901
+Speedup (CPU/GPU): 0.0105978
+------------------------
+Matrix Size: 128 x 128
+Operation: Matrix Inversion
+CPU Time (seconds): 0.014002
+GPU Time (seconds): 0.00839477
+Speedup (CPU/GPU): 1.66794
+------------------------
+Matrix Size: 256 x 256
+Operation: Matrix Multiplication
+CPU Time (seconds): 0.0577183
+GPU Time (seconds): 0.00827057
+Speedup (CPU/GPU): 6.97876
+------------------------
+Matrix Size: 256 x 256
+Operation: Matrix Addition
+CPU Time (seconds): 0.000358313
+GPU Time (seconds): 0.00824996
+Speedup (CPU/GPU): 0.0434321
+------------------------
+Matrix Size: 256 x 256
+Operation: Matrix Inversion
+CPU Time (seconds): 0.118651
+GPU Time (seconds): 0.00830474
+Speedup (CPU/GPU): 14.2871
+------------------------
+Matrix Size: 512 x 512
+Operation: Matrix Multiplication
+CPU Time (seconds): 0.775397
+GPU Time (seconds): 0.00875012
+Speedup (CPU/GPU): 88.6157
+------------------------
+Matrix Size: 512 x 512
+Operation: Matrix Addition
+CPU Time (seconds): 0.00150222
+GPU Time (seconds): 0.00904123
+Speedup (CPU/GPU): 0.166152
+------------------------
+Matrix Size: 512 x 512
+Operation: Matrix Inversion
+CPU Time (seconds): 0.953356
+GPU Time (seconds): 0.00858271
+Speedup (CPU/GPU): 111.079
+------------------------
