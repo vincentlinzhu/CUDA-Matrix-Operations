@@ -39,8 +39,8 @@ pip install matplotlib numpy
 
 1. Clone the Repository:
 ```bash
-git clone 
-cd 
+git clone https://github.com/vincentlinzhu/CUDA-Matrix-Operations.git
+cd CUDA-Matrix-Operations
 ```
 
 2. Ensure CUDA is correctly installed: Check if CUDA is installed by running:
